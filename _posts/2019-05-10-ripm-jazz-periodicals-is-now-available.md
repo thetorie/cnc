@@ -5,7 +5,7 @@ date: '2019-05-10T15:16:14+00:00'
 author: 'John Ehrenburg'
 layout: post
 guid: 'http://www.ripm.org/cnc/?p=3272'
-permalink: '/?p=3272'
+permalink: 'cnc/?p=3272'
 categories:
     - 'Curios and Chronicles'
     - 'RIPM News'
